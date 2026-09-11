@@ -4,3 +4,5 @@ result=num1 + num2
 print('Addtion : \n', result)
 result=num3=num1 * num2
 print('Multiply : \n', result)
+result=num3=num1 /num2
+print(div : \n', result)
